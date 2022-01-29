@@ -1,0 +1,20 @@
+{
+  "name": "api",
+  "version": "0.1.0",
+  "description": "Hour project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielacalle08/First-Project.git"
+  },
+  "author": "Daniela Calle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielacalle08/First-Project/issues"
+  },
+  "homepage": "https://github.com/danielacalle08/First-Project#readme"
+}
